@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @sandilya27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
+***
+- C.S.Sachindra 20y Indian Developer
+- 🔭 Bachelor Degree in Computer Science at LNCT Group of colleges
+  
+### 💻 Languages and Tools
+***
+✅ C++ <br/>
+✅ HTML / CSS <br/>
+✅ JavaScript <br/>
+✅ Bootstrap <br/>
+✅ React <br/>
+✅ Firebase <br/>
+
+### 📃 Learning | Interested in:
+***
+- MERN Stack Developer
+- AI/ML
+- Blockchain
+
+### Reach me: 📫
+***
+- 🐦 [Twitter](https://twitter.com/sachindra_cs)
+- 📬 sandilyasanatan7@gmail.com
+- 💻 [Linkedin](https://www.linkedin.com/in/c-s-sachindra-681985224/)
+
+### 🏆 Some Open-Source Achivements
+***
 [![@sandilya27's Holopin board](https://holopin.me/sandilya27)](https://holopin.io/@sandilya27)
-<!---
-sandilya27/sandilya27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
